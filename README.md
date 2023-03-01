@@ -1,5 +1,6 @@
 # reddit_bot
-a bot that lets you choose what subreddit to check, what comments to respond to. what responses to chose from and how long the running time should be.
+A bot that provides users with the ability to select the subreddit to monitor, the comments to which to respond,
+the options for replies, and the desired duration of operation.
 
 Starting Setup
 To initiate the program, a setup prompt will appear, requesting your Reddit API data. 
